@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eli2</title>
+</head>
+<body>
+    <body background="img/estrellas-3d.jpg.crdownload">
+    <video controls src="videos/VID-20210920-WA0041.mp4"  width="300" height="400" ></video>
+    <video controls src="videos/VID-20210920-WA0065.mp4"  width="300" height="400"></video>
+    <video controls src="videos/VID-20210921-WA0044.mp4" width="300" height="400"></video>
+    <video controls src="videos/VID-20210921-WA0059.mp4" width="300" height="400"></video>
+    <video controls src="videos/VID-20210921-WA0064.mp4" width="300" height="400"></video>
+    <video controls src="videos/VID-20210921-WA0069.mp4" width="300" height="400"></video>
+    <video controls src="videos/VID-20210921-WA0072.mp4" width="300" height="400"></video>
+   
+
+
+    <a href="index.html">eli</a>
+
+    
+</body>
+</html>
